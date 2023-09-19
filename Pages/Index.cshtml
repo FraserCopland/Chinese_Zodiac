@@ -1,0 +1,15 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <form method="post"></form>
+    <label asp-for="Year">Year:</label>
+    <input asp-for="Year" />
+    <button type="submit">Get Zodiac</button>
+    <a asp-action="">Clear</a>
+    <p>@ViewBag.Zodiac</p>
+    <img href=@ViewBag.Image id="zodiac">
+</div>

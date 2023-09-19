@@ -1,0 +1,30 @@
+C:\Users\frase\Documents\4602\Chinese Zodiac\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\frase\Documents\4602\Chinese Zodiac\bin\Debug\net7.0\appsettings.json
+C:\Users\frase\Documents\4602\Chinese Zodiac\bin\Debug\net7.0\Chinese Zodiac.staticwebassets.runtime.json
+C:\Users\frase\Documents\4602\Chinese Zodiac\bin\Debug\net7.0\Chinese Zodiac.exe
+C:\Users\frase\Documents\4602\Chinese Zodiac\bin\Debug\net7.0\Chinese Zodiac.deps.json
+C:\Users\frase\Documents\4602\Chinese Zodiac\bin\Debug\net7.0\Chinese Zodiac.runtimeconfig.json
+C:\Users\frase\Documents\4602\Chinese Zodiac\bin\Debug\net7.0\Chinese Zodiac.dll
+C:\Users\frase\Documents\4602\Chinese Zodiac\bin\Debug\net7.0\Chinese Zodiac.pdb
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\Chinese Zodiac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\Chinese Zodiac.AssemblyInfoInputs.cache
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\Chinese Zodiac.AssemblyInfo.cs
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\Chinese Zodiac.csproj.CoreCompileInputs.cache
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\Chinese Zodiac.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\Chinese Zodiac.RazorAssemblyInfo.cache
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\Chinese Zodiac.RazorAssemblyInfo.cs
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\staticwebassets\msbuild.Chinese Zodiac.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\staticwebassets\msbuild.build.Chinese Zodiac.props
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Chinese Zodiac.props
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Chinese Zodiac.props
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\scopedcss\bundle\Chinese Zodiac.styles.css
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\scopedcss\projectbundle\Chinese Zodiac.bundle.scp.css
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\Chinese Zodiac.dll
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\refint\Chinese Zodiac.dll
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\Chinese Zodiac.pdb
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\Chinese Zodiac.genruntimeconfig.cache
+C:\Users\frase\Documents\4602\Chinese Zodiac\obj\Debug\net7.0\ref\Chinese Zodiac.dll
